@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    @apply bg-cyan-500; /* Set the background of the entire screen to cyan */
+  }
